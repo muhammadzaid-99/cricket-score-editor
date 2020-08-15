@@ -1,0 +1,9 @@
+C:\Users\Zaid\source\repos\Cricket Bot\Cricket Bot\bin\Debug\Cricket Bot.exe.config
+C:\Users\Zaid\source\repos\Cricket Bot\Cricket Bot\bin\Debug\Cricket Bot.exe
+C:\Users\Zaid\source\repos\Cricket Bot\Cricket Bot\bin\Debug\Cricket Bot.pdb
+C:\Users\Zaid\source\repos\Cricket Bot\Cricket Bot\obj\Debug\Cricket_Bot.CricForm.resources
+C:\Users\Zaid\source\repos\Cricket Bot\Cricket Bot\obj\Debug\Cricket_Bot.Properties.Resources.resources
+C:\Users\Zaid\source\repos\Cricket Bot\Cricket Bot\obj\Debug\Cricket Bot.csproj.GenerateResource.cache
+C:\Users\Zaid\source\repos\Cricket Bot\Cricket Bot\obj\Debug\Cricket Bot.csproj.CoreCompileInputs.cache
+C:\Users\Zaid\source\repos\Cricket Bot\Cricket Bot\obj\Debug\Cricket Bot.exe
+C:\Users\Zaid\source\repos\Cricket Bot\Cricket Bot\obj\Debug\Cricket Bot.pdb
